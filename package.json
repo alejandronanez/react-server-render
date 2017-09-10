@@ -1,0 +1,9 @@
+{
+  "name": "advanced-react",
+  "version": "1.0.0",
+  "description": "Advanced react PS course",
+  "main": "src/server.js",
+  "author": "Alejandro Nanez <alejonanez@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
